@@ -42,5 +42,3 @@ This dashboard aims to empower data-driven decision-making by:
 
 ![Dashboard Screenshot](Screenshot%202025-07-07%20161039.png)
 
-## 📂 Project Structure
-
